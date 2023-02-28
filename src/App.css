@@ -1,0 +1,36 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+ 
+ 
+
+.card {
+  padding: 2em;
+}
+
+ 
+header{
+  margin:0px;
+  padding: 0px;
+}
+
+.container-actions{
+  display: flex;
+  justify-content: center;
+  gap:10px;
+}
+#edit-button{
+  background-color:  rgb(31, 48, 95);
+}
+#del-button{
+  background-color: rgb(77, 24, 24);
+}
+#update-btn{
+  background-color:rgb(183, 134, 11);
+}
+.error{
+  color:rgb(206, 99, 99);
+}
