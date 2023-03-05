@@ -4,33 +4,29 @@
   text-align: center;
 }
 
- 
- 
-
 .card {
   padding: 2em;
 }
 
- 
-header{
-  margin:0px;
+header {
+  margin: 0px;
   padding: 0px;
 }
 
-.container-actions{
+.container-actions {
   display: flex;
   justify-content: center;
-  gap:10px;
+  gap: 10px;
 }
-#edit-button{
-  background-color:  rgb(31, 48, 95);
+#edit-button {
+  background-color: rgb(31, 48, 95);
 }
-#del-button{
+#del-button {
   background-color: rgb(77, 24, 24);
 }
-#update-btn{
-  background-color:rgb(183, 134, 11);
+#update-btn {
+  background-color: rgb(183, 134, 11);
 }
-.error{
-  color:rgb(206, 99, 99);
+.error {
+  color: rgb(206, 99, 99);
 }
